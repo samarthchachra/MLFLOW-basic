@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/samar/OneDrive/Desktop/projects/mlops%20project/mlflow%20test/mlruns/0/e3ff5261e36b4a6594afa859f3fb6d37/artifacts
+end_time: 1737923141746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3ff5261e36b4a6594afa859f3fb6d37
+run_name: nebulous-robin-455
+run_uuid: e3ff5261e36b4a6594afa859f3fb6d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737923134885
+status: 3
+tags: []
+user_id: samar
